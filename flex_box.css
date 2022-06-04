@@ -1,0 +1,38 @@
+.flex-container
+{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.flex-item
+{
+  background: orange;
+  padding: 5px;
+  width: 550px;
+  height: wrap;
+  margin-top: 10px;
+  line-height: 150px;
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+}
+.flex-item:hover
+{
+  background: black;
+  padding: 5px;
+  width: 550px;
+  height: wrap;
+  margin-top: 10px;
+  line-height: 150px;
+  color: black;
+  font-weight: bold;
+  font-size: 5em;
+  text-align: center;
+  box-shadow: 10px 10px 15px #000;
+  border: 3px double #0F0;
+}

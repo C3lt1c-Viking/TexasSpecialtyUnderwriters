@@ -1,0 +1,26 @@
+.form_div
+{
+  align: center;
+  margin: 10px auto;
+  text-align: center;
+  padding: 20px;
+  border: 4px double #0F0;
+  box-shadow: 10px 10px 15px #C0C0C0;
+  width: 75%;
+  margin-bottom: 25px;
+  margin-top: 30px;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}

@@ -1,0 +1,80 @@
+/*
+Import Google Fonts;
+font-family: 'Cinzel', serif;
+
+font-family: 'Crimson Text', serif;
+
+font-family: 'Lora', serif;
+
+font-family: 'Nanum Myeongjo', serif;
+
+font-family: 'Redressed', cursive;
+*/
+.frm_lbl
+{
+  font-family: 'Cinzel', serif;
+  font-size: 15px;
+}
+
+.frm_div_hdr
+{
+  font-family: 'Crimson Text', serif;
+  font-size: 25px;
+  color: #000;
+  text-shadow: 10px 10px 15px #000;
+}
+
+.fa_ico
+{
+  font-size: 20px;
+  color: #C0C0C0;
+  text-shadow: 10px 10px 15px #000;
+}
+
+.about_tsu_text
+{
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.cnt_comm_gen_hdr
+{
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 40px;
+  color: #000;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.und_wrt_ast_cnt
+{
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+  color: #FFF;
+  line-height: 30px;
+}
+.und_wrt_cnt
+{
+  font-family: 'Cinzel', serif;
+  font-size: 25px;
+  color: #FFF;
+  line-height: 30px;
+}
+
+.cnt_hdr
+{
+  font-family: 'Cinzel', serif;
+  font-size: 30px;
+  color: #000;
+  text-shadow: 10px 10px 15px #000;
+  text-decoration: overline;
+}
+
+.abt_txt
+{
+  text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+  text-decoration: none;
+}
